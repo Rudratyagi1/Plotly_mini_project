@@ -1,7 +1,7 @@
-# India Ka Data Viz
+
 
 ## Overview
-"India Ka Data Viz" is a Streamlit-based application designed for visualizing data across different states and districts in India. Users can explore a dataset of various parameters, compare data between different states or the entire country, and view visualizations on an interactive map.
+It is a Streamlit-based application designed for visualizing data across different states and districts in India. Users can explore a dataset of various parameters, compare data between different states or the entire country, and view visualizations on an interactive map.
 
 ## Features
 - Select and visualize data for specific states or "Overall India."
